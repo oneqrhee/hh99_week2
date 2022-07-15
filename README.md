@@ -14,4 +14,7 @@ q9. https://programmers.co.kr/learn/courses/30/lessons/12934
 q10. https://programmers.co.kr/learn/courses/30/lessons/12935  
 q11. https://programmers.co.kr/learn/courses/30/lessons/12943  
 q12. https://programmers.co.kr/learn/courses/30/lessons/12947  
+q13. https://programmers.co.kr/learn/courses/30/lessons/68935
+q14. https://programmers.co.kr/learn/courses/30/lessons/86491  
+q15. 
 
