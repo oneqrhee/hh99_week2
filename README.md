@@ -8,3 +8,7 @@ q5. https://programmers.co.kr/learn/courses/30/lessons/12930
 q6. https://programmers.co.kr/learn/courses/30/lessons/12931  
 q7. https://programmers.co.kr/learn/courses/30/lessons/12932  
 q8. https://programmers.co.kr/learn/courses/30/lessons/12933  
+q9. https://programmers.co.kr/learn/courses/30/lessons/12934  
+q10. https://programmers.co.kr/learn/courses/30/lessons/12935  
+q11. https://school.programmers.co.kr/learn/courses/30/lessons/12935  
+q12.

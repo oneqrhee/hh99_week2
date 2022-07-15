@@ -5,16 +5,11 @@ import java.util.List;
 
 public class Solution7 {
     public static int[] solution(long n) {
-        List<Integer> temp_answer = new ArrayList<>();
-        int[] answer;
+        List<Integer> list = new ArrayList<>();
         String str = String.valueOf(n);
         for (int i = str.length()-1; i>=0; i--){
-            temp_answer.add(Character.getNumericValue(str.charAt(i)));
+            list.add(Character.getNumericValue(str.charAt(i)));
         }
-        answer = new int[str.length()];
-        for(int i=0; i<str.length(); i++){
-            answer[i] = temp_answer.get(i);
-        }
-        return answer;
+        return list.stream().mapToInt(Integer::intValue).toArray();
     }
 }
