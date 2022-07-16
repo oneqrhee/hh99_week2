@@ -41,5 +41,15 @@ public class Main_day2 {
         System.out.println("ex2) " + Solution14.solution(new int[][]{{10, 7}, {12, 3}, {8, 15}, {14, 7}, {5, 15}}));
         System.out.println("ex3) " + Solution14.solution(new int[][]{{14, 4}, {19, 6}, {6, 16}, {18, 7}, {7, 11}}));
         System.out.println();
+
+        System.out.println("Problem15.");
+        System.out.println("ex1) " + Arrays.toString(Solution15.solution(new int[]{1, 1, 3, 3, 0, 1, 1})));
+        System.out.println("ex2) " + Arrays.toString(Solution15.solution(new int[]{4, 4, 4, 3, 3})));
+        System.out.println();
+
+        System.out.println("Problem16.");
+        System.out.println("ex1) " + Arrays.toString(Solution16.solution(new int[]{2, 1, 3, 4, 1})));
+        System.out.println("ex2) " + Arrays.toString(Solution16.solution(new int[]{5, 0, 2, 7})));
+        System.out.println();
     }
 }
