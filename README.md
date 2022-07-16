@@ -22,4 +22,8 @@ q16. https://programmers.co.kr/learn/courses/30/lessons/68644
 <<3일차>>  
 q17. https://programmers.co.kr/learn/courses/30/lessons/77484  
 q18. https://programmers.co.kr/learn/courses/30/lessons/42840  
+q19. https://programmers.co.kr/learn/courses/30/lessons/12915  
+q20. https://programmers.co.kr/learn/courses/30/lessons/12917  
+q21. https://programmers.co.kr/learn/courses/30/lessons/12977  
+q22. 
 

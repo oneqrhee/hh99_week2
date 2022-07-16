@@ -1,8 +1,12 @@
 package com.coding.test;
 
+import com.coding.test.solution.day2.Solution11;
+import com.coding.test.solution.day2.Solution12;
 import com.coding.test.solution.day3.*;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class Main_day3 {
     public static void main(String[] args) {
@@ -13,6 +17,25 @@ public class Main_day3 {
                 new int[]{38, 19, 20, 40, 15, 25})));
         System.out.println("ex3) " + Arrays.toString(Solution17.solution(new int[]{45, 4, 35, 20, 3, 9},
                 new int[]{20, 9, 3, 45, 4, 35})));
+        System.out.println();
+
+        System.out.println("Problem18.");
+        System.out.println("ex1) " + Arrays.toString(Solution18.solution(new int[]{1, 2, 3, 4, 5})));
+        System.out.println("ex2) " + Arrays.toString(Solution18.solution(new int[]{1, 3, 2, 4, 2})));
+        System.out.println();
+
+        System.out.println("Problem19.");
+        System.out.println("ex1) " + Arrays.toString(Solution19.solution(new String[]{"sun", "bed", "car"}, 1)));
+        System.out.println("ex2) " + Arrays.toString(Solution19.solution(new String[]{"abce","abcd", "cdx"}, 2)));
+        System.out.println();
+
+        System.out.println("Problem20.");
+        System.out.println("ex1) " + Solution20.solution("Zbcdefg"));
+        System.out.println();
+
+        System.out.println("Problem21.");
+        System.out.println("ex1) " + Solution21.solution(new int[]{1, 2, 3, 4}));
+        System.out.println("ex2) " + Solution21.solution(new int[]{1, 2, 7, 6, 4}));
         System.out.println();
     }
 }
