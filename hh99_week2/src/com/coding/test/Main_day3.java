@@ -1,12 +1,8 @@
 package com.coding.test;
 
-import com.coding.test.solution.day2.Solution11;
-import com.coding.test.solution.day2.Solution12;
 import com.coding.test.solution.day3.*;
-
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
+
 
 public class Main_day3 {
     public static void main(String[] args) {
@@ -36,6 +32,27 @@ public class Main_day3 {
         System.out.println("Problem21.");
         System.out.println("ex1) " + Solution21.solution(new int[]{1, 2, 3, 4}));
         System.out.println("ex2) " + Solution21.solution(new int[]{1, 2, 7, 6, 4}));
+        System.out.println();
+
+        System.out.println("Problem22.");
+        System.out.println("ex1) " + Solution22.solution("one4seveneight"));
+        System.out.println("ex2) " + Solution22.solution("23four5six7"));
+        System.out.println("ex3) " + Solution22.solution("2three45sixseven"));
+        System.out.println("ex4) " + Solution22.solution("123"));
+        System.out.println();
+
+        System.out.println("Problem23.");
+        System.out.println("ex1) " + Solution23.solution("AB", 1));
+        System.out.println("ex2) " + Solution23.solution("z", 1));
+        System.out.println("ex3) " + Solution23.solution("a B z", 4));
+        System.out.println();
+
+        System.out.println("Problem24.");
+        System.out.println("ex1) " + Solution24.solution("...!@BaT#*..y.abcdefghijklm"));
+        System.out.println("ex2) " + Solution24.solution("z-+.^."));
+        System.out.println("ex3) " + Solution24.solution("=.="));
+        System.out.println("ex4) " + Solution24.solution("123_.def"));
+        System.out.println("ex5) " + Solution24.solution("abcdefghijklmn.p"));
         System.out.println();
     }
 }
