@@ -9,10 +9,6 @@ public class Solution34 {
         for(int num: nums){
             set.add(num);
         }
-        if(nums.length/2 > set.size()){
-            return set.size();
-        }else{
-            return nums.length/2;
-        }
+        return Math.min(nums.length / 2, set.size());
     }
 }
