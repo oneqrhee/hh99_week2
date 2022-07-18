@@ -35,13 +35,17 @@ public class Main_day4 {
 
         System.out.println("Problem30.");
         System.out.println("ex1) " + Solution30.solution(10));
-        System.out.println("ex1) " + Solution30.solution(12));
+        System.out.println("ex2) " + Solution30.solution(12));
         System.out.println();
 
         System.out.println("Problem31.");
         System.out.println("ex1) " + Solution31.solution(10));
-        System.out.println("ex1) " + Solution31.solution(5));
+        System.out.println("ex2) " + Solution31.solution(5));
         System.out.println();
 
+        System.out.println("Problem32.");
+        System.out.println("ex1) " + Arrays.toString(Solution32.solution(5, new int[]{2, 1, 2, 6, 2, 4, 3, 3})));
+        System.out.println("ex2) " + Arrays.toString(Solution32.solution(4, new int[]{4, 4, 4, 4, 4})));
+        System.out.println();
     }
 }

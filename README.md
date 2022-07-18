@@ -29,7 +29,7 @@ q22. https://programmers.co.kr/learn/courses/30/lessons/81301
 q23. https://programmers.co.kr/learn/courses/30/lessons/12926  
 q24. https://programmers.co.kr/learn/courses/30/lessons/72410  
 
-<4일차>>  
+<<4일차>>  
 q25. https://programmers.co.kr/learn/courses/30/lessons/77884  
 q26. https://programmers.co.kr/learn/courses/30/lessons/12928  
 q27. https://programmers.co.kr/learn/courses/30/lessons/12982  
@@ -37,5 +37,9 @@ q28. https://programmers.co.kr/learn/courses/30/lessons/12940
 q29. https://programmers.co.kr/learn/courses/30/lessons/42748  
 q30. https://programmers.co.kr/learn/courses/30/lessons/87389  
 q31. https://programmers.co.kr/learn/courses/30/lessons/12921  
-q32. 
+q32. https://programmers.co.kr/learn/courses/30/lessons/42889  
+
+<<5일차>>  
+q33. https://programmers.co.kr/learn/courses/30/lessons/42862  
+q34. 
 
