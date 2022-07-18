@@ -41,5 +41,12 @@ q32. https://programmers.co.kr/learn/courses/30/lessons/42889
 
 <<5일차>>  
 q33. https://programmers.co.kr/learn/courses/30/lessons/42862  
-q34. 
+q34. https://programmers.co.kr/learn/courses/30/lessons/1845  
+q35. https://programmers.co.kr/learn/courses/30/lessons/17681  
+q36. https://programmers.co.kr/learn/courses/30/lessons/67256  
+q37. https://programmers.co.kr/learn/courses/30/lessons/17682  
+q38. https://school.programmers.co.kr/learn/courses/30/lessons/12939  
+q39. https://school.programmers.co.kr/learn/courses/30/lessons/12924  
+q40. https://programmers.co.kr/learn/courses/30/lessons/64061  
+
 

@@ -2,9 +2,7 @@ package com.coding.test;
 
 import com.coding.test.solution.day2.*;
 
-import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 
 public class Main_day2 {
     public static void main(String[] args) {

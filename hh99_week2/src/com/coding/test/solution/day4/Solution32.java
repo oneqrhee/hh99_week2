@@ -35,7 +35,6 @@ public class Solution32 {
                 }
             }
         }
-
         return result.stream().mapToInt(Integer::intValue).toArray();
     }
 }

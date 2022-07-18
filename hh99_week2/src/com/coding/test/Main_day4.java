@@ -1,6 +1,5 @@
 package com.coding.test;
 
-import com.coding.test.solution.day3.Solution18;
 import com.coding.test.solution.day4.*;
 
 import java.util.Arrays;
